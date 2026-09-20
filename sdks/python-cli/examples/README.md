@@ -16,6 +16,10 @@
 * [`conversations_xlsx.md`](conversations_xlsx.md) — convert a conversation-list
   JSON export to an Excel workbook with datetime cells, duration and filters.
 * [`memories_markdown.md`](memories_markdown.md) — export memories, facts, and learnings to structured Markdown notes for Obsidian & Notion.
+* [`action_items_csv.md`](action_items_csv.md) — convert an action-items
+  JSON export to spreadsheet-safe CSV for Excel, Google Sheets, and Todoist.
+* [`action_items_markdown.md`](action_items_markdown.md) — export action items
+  and follow-ups to structured Markdown task checklists for Obsidian & Notion.
 * [`quickstart.th.md`](quickstart.th.md) — คู่มือเริ่มต้นใช้งาน omi-cli
   ฉบับภาษาไทย (Thai Quickstart).
 * [`quickstart.ja.md`](quickstart.ja.md) — 日本語クイックスタートガイド (Japanese Quickstart).
